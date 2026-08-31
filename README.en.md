@@ -1,5 +1,5 @@
-[![de](https://img.shields.io/badge/language-german-green.svg)](https://gitlab.gwdg.de/fsrphys/tagesordnung-updater/blob/main/README.md)
-[![en](https://img.shields.io/badge/language-english-blue.svg)](https://gitlab.gwdg.de/fsrphys/tagesordnung-updater/blob/main/README.en.md)
+[![de](https://img.shields.io/badge/language-german-green.svg)](https://github.com/tNaschke/tagesordnung-updater/blob/main/README.md)
+[![en](https://img.shields.io/badge/language-english-blue.svg)](https://github.com/tNaschke/tagesordnung-updater/blob/main/README.en.md)
 
 
 # Agenda Updater
